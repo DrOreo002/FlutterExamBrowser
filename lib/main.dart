@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Define',
+              'Define website URL',
               style: new TextStyle(
                 fontSize: 20.0,
                 height: 2.0,
