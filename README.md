@@ -1,6 +1,6 @@
-# exam_browser
+# FlutterExamBrowser
 
-A new Flutter project.
+A simple app for a replacement for ExamBrowser. With cheats included ofc
 
 ## Getting Started
 
